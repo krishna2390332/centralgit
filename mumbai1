@@ -1,5 +1,23 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+-    <title>My First Page</title>
+-</head>
+-<body>
+-    <h1>Hello, World!</h1>
+-    <p>This is a basic HTML page.</p>
+-</body>
+-
+-<a href="https://github.com">Visit GitHub</a>
+-<img src="https://via.placeholder.com/150" alt="Placeholder image">
+-<p style="color: blue;">This text is styled blue.</p>
 <ul>
     <li>First item</li>
     <li>Second item</li>
 </ul>
 <button>Click me</button>
+
+-</html>
+
