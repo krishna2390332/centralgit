@@ -9,4 +9,8 @@
     <h1>Hello, World!</h1>
     <p>This is a basic HTML page.</p>
 </body>
+
+<a href="https://github.com">Visit GitHub</a>
+<img src="https://via.placeholder.com/150" alt="Placeholder image">
+<p style="color: blue;">This text is styled blue.</p>
 </html>
